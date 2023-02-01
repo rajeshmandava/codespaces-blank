@@ -1,0 +1,7 @@
+---
+Language: Cpp
+BasedOnStyle: LLVM
+BreakBeforeBraces: Stroustrup
+ColumnLimit: 120
+TabWidth: 2
+---
